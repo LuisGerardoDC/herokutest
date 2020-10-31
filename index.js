@@ -51,5 +51,5 @@ app.use(wrapErrors);
 app.use(errorHandler);
 
 const server = app.listen(PORT, () => {
-  console.log(`Server listen on http://localhost:${server.address().port}`)
+ debug(`Server listen on http://localhost:${server.address().port}`)
 });
