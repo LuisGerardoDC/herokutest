@@ -11,7 +11,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.0"
   },
   "dependencies": {
     "@hapi/boom": "^9.1.0",
